@@ -5,3 +5,4 @@ Team Names:
 - Samuel Corder
 - Ryan Hanks
 - Minh Anh Dang (danganh1@msu.edu)
+- Ryan Flanery (flaneryr@msu.edu)
