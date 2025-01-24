@@ -2,3 +2,4 @@
 Git repo for CMSE 495 Documenters project
 Team Names:
 - Annie Wilcox
+- Samuel Corder
