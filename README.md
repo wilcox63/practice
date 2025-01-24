@@ -2,7 +2,7 @@
 Git repo for CMSE 495 Documenters project
 Team Names:
 - Annie Wilcox
-- Samuel Corder
+- Samuel Corder (cordersa@msu.edu)
 - Ryan Hanks (hanksrya@msu.edu)
 - Minh Anh Dang (danganh1@msu.edu)
 - Ryan Flanery (flaneryr@msu.edu)
