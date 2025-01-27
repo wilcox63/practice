@@ -11,7 +11,7 @@ This is a group project for the Michigan State University Data Science Capstone 
 
 The team plans to train an already existing AI webscraper to search for public information, then summarize and visualize the data in a pleasing way.  
 
-Installation Instructions:  
+Installation Instructions: Clone this repo into your terminal and run as instructed. 
 
 Documentation:  
 [Documenters](https://www.documenters.org/)
