@@ -44,6 +44,9 @@ We have generated our API key, and now we can access any public Google Sheet.
 
 You can now close Visual Studio Code.
 
-### Step 3: Running the Project
+### Step 3: Running the Project (Demo)
 
-All that's left now is to open ```index.html``` in any browser and enjoy!
+All that's left now is to open ```index.html``` in any browser and starting searching! Simply click the magnifying glass, and start searching for someone in the Detroit local government. Names should appear, and you can select one to find more about them.
+
+![image](https://github.com/user-attachments/assets/ea39c08e-350a-49c8-a078-c5c03dfc43fb)
+
