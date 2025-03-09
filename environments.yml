@@ -1,1 +1,11 @@
-
+name: envs
+channels:
+  - defaults
+dependencies:
+  - numpy
+  - pandas
+  - pip
+  - selenium
+  - pip:
+      - webdriver-manager
+prefix: envs
