@@ -50,3 +50,7 @@ All that's left now is to open ```index.html``` in any browser and starting sear
 
 ![image](https://github.com/user-attachments/assets/ea39c08e-350a-49c8-a078-c5c03dfc43fb)
 
+***
+**NOTE:** When following this demo, you should not need to create your own copy of/version of the data. However, if you have interest into converting your own websites into CSVs, and consequenstly Google Sheets in order to display your own data via the HTML demo, please follow the ```HTML_to_df.ipynb``` tutorial.
+***
+
