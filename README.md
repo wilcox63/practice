@@ -7,12 +7,11 @@ Authors:
 - Ryan Flanery (flaneryr@msu.edu)
 
 Project Description:  
-This is a group project for the Michigan State University Data Science Capstone course, CMSE 495. The authors of this project are sponsored by Documenters, a nonprofit organization dedicated to making government more honest and accessible by publishing public records. The team is tasked with collecting public data on elected officials such as their campaign's financial history, social media, employment history, and affiliations. After collecting the data, the team is expected to create a search engine that returns dossiers of the information for use by journalists and civillians.  
+This is a group project for the Michigan State University Data Science Capstone course, CMSE 495. The authors of this project are supporting initial research for Documenters, a nonprofit organization dedicated to making government more honest and accessible by publishing public records. The team is tasked with collecting public data on elected officials such as their campaign's financial history, social media, employment history, and affiliations. After collecting the data, the team is expected to create a search engine that returns dossiers of the information for use by journalists and civillians.  
 
-The team plans to train an already existing AI webscraper to search for public information, then summarize and visualize the data in a pleasing way.  
-
-Installation Instructions:   
-Clone this repo into your terminal and run as instructed. 
+Installation:
+Follow the INSTALL.md file to get our website base working on your own computer! 
 
 Documentation:  
 [Documenters](https://www.documenters.org/)
+[CSS Search Field Animation](https://codepen.io/sebastianpopp/pen/myYmmy) 
