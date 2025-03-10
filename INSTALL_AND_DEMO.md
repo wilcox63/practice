@@ -33,7 +33,7 @@ We have generated our API key, and now we can access any public Google Sheet!
 ### Step 2: Downloading and editing the HTML Project
 
 ***
-**NOTE:** For this example, we are using Visual Studio Code to edit our HTML files. The most important parts are Parts 3 & 4. Parts 1, 2 & 5 can be adapted to whatever software you prefer.
+**NOTE:** We are using Visual Studio Code to edit our HTML files, any code editing software will work for you. You can even open the files on your computer's built in text editor and still effectively do this tutorial! You do not need any coding knowledge to complete this tutorial!
 ***
 
 1. On this GitHub repository (https://github.com/minh-msu/CMSE495_Documenters) download ```DetroitFinders.zip```. Unzip the file wherever you like.
