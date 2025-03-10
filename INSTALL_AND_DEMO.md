@@ -38,8 +38,8 @@ We have generated our API key, and now we can access any public Google Sheet!
 
 1. On this GitHub repository (https://github.com/minh-msu/CMSE495_Documenters) download ```DetroitFinders.zip```. Unzip the file wherever you like.
 2. Select **File > Open File** and open DetroitFinder
-3. Open ```index.html```. In line 38, edit the url to include your Google Sheets API key at the end.
-4. Open ```about.html```. In line 22, edit the url to include your Google Sheets API key at the end.
+3. Open ```index.html```. In line 38, edit the url to include your Google Sheets API key at the end. Only change the part that says ```YOUR_API_KEY_HERE``` to your API key.
+4. Open ```about.html```. In line 22, edit the url to include your Google Sheets API key at the end. Only change the part that says ```YOUR_API_KEY_HERE``` to your API key.
 5. Select **File > Save All**
 
 You can now close Visual Studio Code.
