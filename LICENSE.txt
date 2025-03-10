@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) [2025] [Ryan Hanks, Annie Wilcox, Ryan Flannery, Minh Anh Dang, Sam Corder, Documenters.org]
+Copyright (c) [2025] [Ryan Hanks, Annie Wilcox, Ryan Flanery, Minh Anh Dang, Sam Corder, Documenters.org]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
