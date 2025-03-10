@@ -13,5 +13,5 @@ Installation:
 Follow the INSTALL.md file to get our website base working on your own computer! The data itself is stored via a public Google Sheets file, but you are welcome to view an example of our data via the ```contact.csv``` file in the GitHub repository. If you would like to view the raw, working dataset, please find the Google Sheets link in the HTML files (line 39 in ```index.html```, and line 23 in ```about.html```) and copy and paste it into your preferred browser!
 
 Documentation:  
-[Documenters](https://www.documenters.org/)
-[CSS Search Field Animation](https://codepen.io/sebastianpopp/pen/myYmmy) 
+* [Documenters](https://www.documenters.org/)
+* [CSS Search Field Animation](https://codepen.io/sebastianpopp/pen/myYmmy) 
