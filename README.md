@@ -14,7 +14,7 @@ The two primary goals of this project are to automate data collection and to cre
 
 Installation:
 * To demo the project, visit: https://minh-msu.github.io/CMSE495_Documenters/
-* To reproduce our results, follow the ```INSTALL.md``` file.
+* To reproduce our results, follow the ```install.md``` file.
 * If you would like to view the full dataset, visit https://docs.google.com/spreadsheets/d/1x6aJpjxxsb_-TWj-42QgpOGXleo8rbemAy95CrEmyI4/edit?gid=0#gid=0. The Sheets file is available to view for anyone with the link.
 
 Documentation:  
