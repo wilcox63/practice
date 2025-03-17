@@ -1,6 +1,6 @@
 # CMSE495_Documenters
 ## Leadership Dossiers
-Authors:
+## Authors:
 - Annie Wilcox (wilcox63@msu.edu)
 - Samuel Corder (cordersa@msu.edu)
 - Ryan Hanks (hanksrya@msu.edu)
