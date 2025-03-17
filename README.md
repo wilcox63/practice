@@ -19,4 +19,5 @@ Installation:
 
 Documentation:  
 * [Documenters](https://www.documenters.org/)
-* [CSS Search Field Animation](https://codepen.io/sebastianpopp/pen/myYmmy) 
+* [CSS Search Field Animation](https://codepen.io/sebastianpopp/pen/myYmmy)
+* [License](https://github.com/minh-msu/CMSE495_Documenters/blob/main/LICENSE.txt)
