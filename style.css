@@ -6,7 +6,8 @@ body {
   margin: 0;
 }
 body {
-  background: #f6db36;
+  background: url('tigers.jpg');
+  background-size: cover;
   font: 24px Serif;
   color: #000000;
 }
