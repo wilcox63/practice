@@ -8,7 +8,7 @@
 
 1. Clone this notebook into your working directory by using ```git clone https://github.com/minh-msu/CMSE495_Documenters```
 2. Navigate to ```Email_Phone_Location_Scraper.ipynb```
-3. Run the whole notebook
+3. Run the whole notebook, this notebook will read from ```List_of_names_1_7_2.xlsx``` and [this website](https://publish.smartsheet.com/9def816c9e6a4a4395d2903039bf714d) and merge the contact information into the dataframe derived from ```List_of_names_1_7_2.xlsx```
 4. The resulting dataframe will be saved onto ```contact.csv```
 
 ### Step 1: Set Up Google Sheets API
