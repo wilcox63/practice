@@ -6,7 +6,7 @@
 
 ### Step 0: Scrape for officials' contact information
 
-1. Clone this notebook into your working directory by using ```git clone https://github.com/minh-msu/CMSE495_Documenters```
+1. Clone this notebook into your working directory by using ```git clone https://github.com/minh-msu/Detroit_Leadership_Dossiers.git```
 2. Navigate to ```Email_Phone_Location_Scraper.ipynb```
 3. Run the whole notebook, this notebook will read from ```List_of_names_1_7_2.xlsx``` and [this website](https://publish.smartsheet.com/9def816c9e6a4a4395d2903039bf714d) and merge the contact information into the dataframe derived from ```List_of_names_1_7_2.xlsx```
 4. The resulting dataframe will be saved onto ```contact.csv```
@@ -43,7 +43,7 @@ We have generated our API key, and now we can access any public Google Sheet!
 **NOTE:** We are using Visual Studio Code to edit our HTML files, any code editing software will work for you. You can even open the files on your computer's built in text editor and still effectively do this tutorial! You do not need any coding knowledge to complete this tutorial!
 ***
 
-1. On this GitHub repository (https://github.com/minh-msu/CMSE495_Documenters) download ```DetroitFinders.zip```. Unzip the file wherever you like.
+1. On this GitHub repository (https://github.com/minh-msu/Detroit_Leadership_Dossiers) download ```DetroitFinders.zip```. Unzip the file wherever you like.
 2. Select **File > Open File** and open DetroitFinder
 3. Open ```index.html```. In line 38, edit the url to include your Google Sheets API key at the end. Only change the part that says ```YOUR_API_KEY_HERE``` to your API key.
 4. Open ```about.html```. In line 22, edit the url to include your Google Sheets API key at the end. Only change the part that says ```YOUR_API_KEY_HERE``` to your API key.
