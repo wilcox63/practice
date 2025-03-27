@@ -4,6 +4,13 @@
 
 ### Minh Anh Dang, Annie Wilcox, Ryan Hanks, Ryan Flanery, Samuel Corder
 
+### Step 0: Scrape for officials' contact information
+
+1. Clone this notebook into your working directory by using ```git clone https://github.com/minh-msu/CMSE495_Documenters```
+2. Navigate to ```Email_Phone_Location_Scraper.ipynb```
+3. Run the whole notebook
+4. The resulting dataframe will be saved onto ```contact.csv```
+
 ### Step 1: Set Up Google Sheets API
 
 Our project is in HTML, because most browsers block opening local files, we stored our data using the Google Sheets API. Google Sheets API is free for 90 days. Here's how you can start using it:
