@@ -7,9 +7,12 @@
 ### Step 0: Scrape for officials' contact information
 
 1. Clone this notebook into your working directory by using ```git clone https://github.com/minh-msu/Detroit_Leadership_Dossiers.git```
-2. Navigate to ```Email_Phone_Location_Scraper.ipynb```
-3. Run the whole notebook, this notebook will read from ```List_of_names_1_7_2.xlsx``` and [this website](https://publish.smartsheet.com/9def816c9e6a4a4395d2903039bf714d) and merge the contact information into the dataframe derived from ```List_of_names_1_7_2.xlsx```
-4. The resulting dataframe will be saved onto ```contact.csv```
+2. Navigate to our repo by ```cd Detroit_Leadership_Dossiers```
+3. Make a new environment using ```conda env create --prefix ./envs --file environment.yml```
+4. Activate the environment ```conda activate ./envs```
+5. Navigate to ```Contact_Scraper.ipynb```
+6. Run the whole notebook, this notebook will read from ```List_of_names_1_7_2.xlsx``` and [this website](https://publish.smartsheet.com/9def816c9e6a4a4395d2903039bf714d) and merge the contact information into the dataframe derived from ```List_of_names_1_7_2.xlsx```
+7. The resulting dataframe will be saved onto ```contact.csv```
 
 ### Step 1: Set Up Google Sheets API
 
