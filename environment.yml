@@ -5,6 +5,8 @@ dependencies:
   - numpy
   - pandas
   - pip
+  - jupyter
+  - lxml
   - selenium
   - pip:
       - webdriver-manager

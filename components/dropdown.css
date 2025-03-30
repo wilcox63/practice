@@ -1,0 +1,14 @@
+/* From Grok*/
+
+select#boardSelect {
+  width: 300px;
+  padding: 8px;
+  font-size: 16px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  background-color: #f9f9f9;
+}
+
+select#boardSelect:hover {
+  border-color: #aaa;
+}
