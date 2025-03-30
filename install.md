@@ -8,7 +8,7 @@
 
 1. Clone this notebook into your working directory by using ```git clone https://github.com/minh-msu/Detroit_Leadership_Dossiers.git```
 2. If you don't have conda installed on your computer, follow the instructions on [this website](https://docs.conda.io/projects/conda/en/stable/index.html)
-3. Navigate to our repo by ```cd Detroit_Leadership_Dossiers```
+3. Navigate to the repo by ```cd Detroit_Leadership_Dossiers```
 4. Make a new environment using ```conda env create --prefix ./envs --file environment.yml```
 5. Activate the environment ```conda activate ./envs```
 6. Navigate to ```Contact_Scraper.ipynb```
