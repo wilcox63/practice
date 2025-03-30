@@ -18,7 +18,7 @@
 
 ### Step 2: Uploading Your Data to Google Sheets
 
-1. Open our [template](ttps://docs.google.com/spreadsheets/d/1fpZTeWiMM9DN0RpZIrkl2MfY1Y7QcUBkwlxJSRlRGQQ/edit?gid=0#gid=0).
+1. Open the template for the dataset via [this link](https://docs.google.com/spreadsheets/d/1fpZTeWiMM9DN0RpZIrkl2MfY1Y7QcUBkwlxJSRlRGQQ/edit?gid=0#gid=0).
 2. Click **File** &rarr; **Make A Copy**.
 3. In your copy of our template, copy and paste all the contents of contacts.csv into cell B1. Column 'A' should be filled with the full names of each person in the dataset. (Note: It’s a lot of data, it might take a minute. If your computer asks if you want to save the clipboard, click **NO**)
 4. In the top right corner of the screen, click **Share**.
