@@ -6,14 +6,15 @@
 
 ### Step 1: Scrape for Officials' Contact Information
 
-1. Clone this notebook into your working directory by using ```git clone https://github.com/minh-msu/Detroit_Leadership_Dossiers.git```
-2. If you don't have conda installed on your computer, follow the instructions on [this website](https://docs.conda.io/projects/conda/en/stable/index.html)
-3. Navigate to the repo by ```cd Detroit_Leadership_Dossiers```
-4. Make a new environment using ```conda env create --prefix ./envs --file environment.yml```
-5. Activate the environment ```conda activate ./envs```
-6. Navigate to ```Contact_Scraper.ipynb```
-7. Run the whole notebook, this notebook will read from ```List_of_names_1_7_2.xlsx``` and [this website](https://publish.smartsheet.com/9def816c9e6a4a4395d2903039bf714d) and merge the contact information into the dataframe derived from ```List_of_names_1_7_2.xlsx```
-8. The resulting dataframe will be saved onto ```contact.csv```
+1. If you don't have conda installed on your computer, follow the instructions on [this website](https://docs.conda.io/projects/conda/en/stable/index.html)
+2. If you don't have Jupyter Notebook installed, use the command `conda install notebook` to install Jupyter Notebook.
+3. Clone this notebook into an Anaconda Prompt terminal, and your preferred working directory by using ```git clone https://github.com/minh-msu/Detroit_Leadership_Dossiers.git```
+4. Navigate to the repo with the command ```cd Detroit_Leadership_Dossiers```
+5. Make a new environment using ```conda env create --prefix ./envs --file environment.yml```
+6. Activate the environment ```conda activate ./envs```
+8. Using the command `jupyter notebook Contact_Scraper.ipynb` navigate to the webscraping file.
+9. Run the whole notebook, this notebook will read from ```List_of_names_1_7_2.xlsx``` and [this website](https://publish.smartsheet.com/9def816c9e6a4a4395d2903039bf714d) and merge the contact information into the dataframe derived from ```List_of_names_1_7_2.xlsx```
+10. The resulting dataframe will be saved onto ```contact.csv```
 
 ### Step 2: Uploading Your Data to Google Sheets
 
