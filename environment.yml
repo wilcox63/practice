@@ -2,12 +2,13 @@ name: envs
 channels:
   - defaults
 dependencies:
+  - jupyter
+  - lxml
   - numpy
   - pandas
   - pip
-  - jupyter
-  - lxml
   - selenium
+  - openpyxl
   - pip:
       - webdriver-manager
 prefix: envs
