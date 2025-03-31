@@ -26,10 +26,11 @@
 6. Now that the data is publicly viewable, we need to grab the Sheet ID. The Sheet ID of your Google Sheet is the string after ```d/``` and before ```/edit?``` in the link to your Google Sheet. Copy your Sheet ID. You'll need it for our next step. (See image for reference of what the Sheet ID looks like) ![example](https://github.com/user-attachments/assets/271791e0-268d-4f5d-8847-ce645b16faa4) 
 
 ### Step 3: Updating the Code and Opening the Website
+
 1. Open ```index.html```. In line 38, enter your Sheet ID. Save your changes.
-2. Open ```about.html```. In line 22, enter your Sheet ID. Save your changes. (Annie, when u edit this, adjust the 'Save your changes' to whatever is actually on screen)
+2.  Open ```about.html```. In line 22, enter your Sheet ID. Save your changes. (Annie, when u edit this, adjust the 'Save your changes' to whatever is actually on screen)
 3. Now, on the GitHub repository, click **Settings**
 4. In the "Code and automation" section of the sidebar, click **Pages**.
 5. Under "Build and deployment", under "Source", select **Deploy from a branch**.
-6. 
+6. Select the main branch, and leave the file as `/(root)`. It may take a second for the page to deploy, reload a few times if necessary.
 7. Finally, you can view your version using the link GitHub provides you.
