@@ -31,5 +31,5 @@
 3. Now, on the GitHub repository, click **Settings**
 4. In the "Code and automation" section of the sidebar, click **Pages**.
 5. Under "Build and deployment", under "Source", select **Deploy from a branch**.
-6. Deploy from your branch. (Annie idk GitHub terms sooo)
+6. 
 7. Finally, you can view your version using the link GitHub provides you.
