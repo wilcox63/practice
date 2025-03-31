@@ -20,7 +20,7 @@
 
 1. Open the template for the dataset via [this link](https://docs.google.com/spreadsheets/d/1fpZTeWiMM9DN0RpZIrkl2MfY1Y7QcUBkwlxJSRlRGQQ/edit?gid=0#gid=0).
 2. Click **File** &rarr; **Make A Copy**.
-3. In your copy of our template, copy and paste all the contents of contacts.csv into cell B1. Column 'A' should be filled with the full names of each person in the dataset. (Note: It’s a lot of data, it might take a minute. If your computer asks if you want to save the clipboard, click **NO**)
+3. In your copy of our template, copy and paste all the contents of contacts.csv into cell B1. Column 'A' should be filled with the full names of each person in the dataset. (Note: It’s a lot of data, it might take a minute. If your computer asks if you want to save the clipboard, click **NO**. **Also:** If you have been working via the terminal/conda prompt shell thus far, it will be most efficient to open `contact.csv` as an excel file for this step.)
 4. In the top right corner of the screen, click **Share**.
 5. In the middle of your screen, click **Restricted** &rarr; **Anyone with the link** &rarr; **Done**.
 6. Now that the data is publicly viewable, we need to grab the Sheet ID. The Sheet ID of your Google Sheet is the string after ```d/``` and before ```/edit?``` in the link to your Google Sheet. Copy your Sheet ID. You'll need it for our next step. (See image for reference of what the Sheet ID looks like) ![example](https://github.com/user-attachments/assets/271791e0-268d-4f5d-8847-ce645b16faa4) 
